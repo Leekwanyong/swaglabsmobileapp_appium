@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "automationName": "UiAutomator2",
+  "appPackage": "com.swaglabsmobileapp",
+  "appActivity": "com.swaglabsmobileapp.MainActivity",
+  "noReset": true,
+  "unicodeKeyboard": true,
+  "resetKeyboard": true
+}
